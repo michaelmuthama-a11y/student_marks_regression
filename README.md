@@ -194,8 +194,6 @@ joblib==1.5.2
 - Streamlit deployment
 - Git and GitHub
 
-## Author
+## Publisher
 
-**Kevin Ngang'a**
-
-GitHub: https://github.com/OleSuyaye
+** Michael Muthama **
